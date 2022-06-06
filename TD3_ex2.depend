@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642585441 source:c:\users\scorpion\onedrive\desktop\c\td3_ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
